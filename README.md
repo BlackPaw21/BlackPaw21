@@ -45,6 +45,6 @@ Outside the terminal, I’m also a 3D artist with over 4 years of experience in 
 <img src="wise.gif" alt="GitHub Banner" width="55%" />
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Wise02&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Wise02&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wise02&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=BlackPaw21&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=BlackPaw21&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackPaw21&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
