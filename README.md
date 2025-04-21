@@ -8,7 +8,7 @@ Outside the terminal, I’m also a 3D artist with over 4 years of experience in 
 
 ---
 
-🧠 **Skills & Tools:**  
+🧠 **Skills & Tools:**   
 • Python • C++ • Assembly • Java • Bash  
 • Kali Linux • Windows • Metasploit • Hashcat • Bettercap  
 • Wireshark • Burp Suite • Custom Payload Dev • Automation
