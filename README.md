@@ -42,9 +42,9 @@ Outside the terminal, I’m also a 3D artist with over 4 years of experience in 
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 
-<img src="wise.gif" alt="GitHub Banner" width="55%" />
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BlackPaw21&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=BlackPaw21&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackPaw21&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackPaw21&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=86400)
