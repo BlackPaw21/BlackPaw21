@@ -1,5 +1,5 @@
 # 💫 About Me:
-## **3D Artist | Red Teamer | Tool Developer**
+
 ## Hi! i go by BlackPaw
 
  a self-taught penetration tester and red team enthusiast with a deep passion for scripting, automation, and creative problem-solving. I specialize in building custom exploits, stealth payloads, and advanced red team tools that push the limits of ethical hacking.
