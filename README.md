@@ -13,8 +13,6 @@ Outside the terminal, I’m also a 3D artist with over 4 years of experience in 
 • Kali Linux • Windows • Metasploit • Hashcat • Bettercap  
 • Wireshark • Burp Suite • Custom Payload Dev • Automation
 
-🎯 **Focus Areas:**  
-• Red Teaming • Exploit Dev • Obfuscation • MITM Attacks • Offensive Scripting
 
 🧰 **Creative Edge:**  
 • Blender 3D • Animation & Visual Design • Concept-to-Render Pipelines
